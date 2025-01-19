@@ -42,7 +42,7 @@ A Flutter-based quiz application with gamification features. This app fetches qu
      ```bash
      flutter run
      ```
-
+ 
 ## API Usage
 
 The app fetches quiz data from the API endpoint:

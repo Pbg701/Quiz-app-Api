@@ -57,16 +57,16 @@ https://api.jsonserve.com/Uw5CrX
 ### Screenshots
 
 #### Home Screen
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](https://drive.google.com/file/d/12BouDICw9K2B9CXInvvsMo7AnujDsf4r/view?pli=1)
 
-#### Question Screen
-![Question Screen](screenshots/question_screen.png)
+#### Splash Screen
+![Splash Screen](https://drive.google.com/file/d/126i5vSFOd8GII4RcHN1KExAULfBa5-Hw/view?usp=drivesdk)
 
 #### Summary Screen
-![Summary Screen](screenshots/summary_screen.png)
+![Summary Screen](https://drive.google.com/file/d/12KeA25W_zUm8jN6adPNkUyqC5KDh6CuE/view)
 
 ### Video Walkthrough
-[![Video Walkthrough](screenshots/video_placeholder.png)](https://your-video-link.com)
+[![Video Walkthrough](https://drive.google.com/file/d/11tmTek-ztVidtwrRCpCk_VXj2duGhEct/view?usp=drivesdk)]
 
 ## Folder Structure
 
